@@ -1,22 +1,21 @@
 # calling a function ---> comment
 # Basic data types
-print("This is my first program")
-# Text -> string
+print("This is my first program")# Text -> string
 print(23) # number -> integer
 print(14.2) # decimal -> float
 print(False) # Boolean
 
-print(type("This is my first program")) # Text -> string
-print(type(23)) # number -> integer
-print(type(14.2)) # decimal -> float
-print(type(False)) # Boolean
+print(type("This is my first program")) # Text -> string - iterable
+print(type(23)) # number -> integer - non-iterable
+print(type(14.2)) # decimal -> float - non-iterable
+print(type(False)) # Boolean - non-iterable
 
 type("This is my first program")
 
-list
+# list
 # Collection Data type
 l = ["value1", 12,123.5,False,[1,2,3]] # list
-["value1", 12,123.5,False,[1,2,3]] = l
+# ["value1", 12,123.5,False,[1,2,3]] = l 
 t = ("value1", 12,123.5,False,[1,2,3]) # tuple
 s = {3,7,2,1,"anothervalue"} # set
 d = { # key : value # dictionary
