@@ -1,0 +1,123 @@
+Operators and Built-in Functions
+
+---
+
+1. Take a name as input from the user and print it.
+
+---
+
+2. Take age as input and print its value and type.
+
+---
+
+3. Take a number as input, convert it into integer, and print its type.
+---
+
+4. Print the type of each variable:
+a = 10, b = 5.5, c = "Python", d = True
+
+---
+
+5. Print the result of the following: 
+Check whether "a" exists in the string "Python".
+Check whether "Py" exists in "Python".
+
+---
+
+6. Observe 
+a=10
+b=10
+print(a is b)
+
+--- 
+
+7. Understand the difference between the following:
+    
+ is and ==
+ Is not and !=
+  
+---
+  
+8. Check identity for strings:
+s1 = "Python"
+s2 = "Python"
+print(s1 is s2)
+
+---
+
+9. Check whether two variables point to the same object.
+a = input("Enter value: ")
+b = a
+print(a is b)
+
+
+Think about it:
+    
+Difference between == and is
+Why input() always returns a string
+
+---
+
+1️⃣ Arithmetic + Precedence
+
+a = 8
+b = 3
+c = 2
+
+print(a + b * c - a // b)
+
+👉 Question:
+	•	What is the output?
+	•	Explain step-by-step (which operation happens first?)
+
+---
+
+2️⃣ Arithmetic (Mix Operations)
+
+x = 10
+y = 4
+
+print(x % y + x // y * 2)
+
+👉 Question:
+	•	Find the output
+	•	Explain meaning of % and //
+
+---
+
+3️⃣ Logical Operator (Truthy/Falsy)
+
+print("" or 0 or False or "Python")
+print("Hello" and "World")
+
+👉 Question:
+	•	What will be the output?
+	•	Why is string returned instead of True/False?
+
+---
+
+4️⃣ Comparative + Logical
+
+a = 5
+b = 10
+c = 5
+
+print(a == c and b > a or b == c)
+
+👉 Question:
+	•	What is the output?
+	•	Which condition runs first?
+
+---
+
+5️⃣ Logical + not (Concept clarity)
+
+print(not 0)
+print(not "Hello")
+print(not "")
+
+👉 Question:
+	•	Explain why outputs are different
+	•	What is considered True and False?
+
+---
