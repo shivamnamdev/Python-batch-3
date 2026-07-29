@@ -3,8 +3,8 @@
 # print(keyword.kwlist)
 # # class = "working" -> SyntaxError: invalid syntax
 
-# monthSalary = 10
-# month_salary = 20
+# monthSalary = 10 -> Java
+# month_salary = 20 -> Python
 
 
 ######## Exercise 2 #########

@@ -24,10 +24,10 @@
 
 
 
-# # typecasting - typeconversion
-# print(type(int(inp))) # <class 'int'>
-# print(type(float(int(inp)))) # <class 'float'>
-# print(type(str(float(int(inp))))) # <class 'str'>
+# typecasting - typeconversion
+print(type(int(inp))) # <class 'int'>
+print(type(float(int(inp)))) # <class 'float'>
+print(type(str(float(int(inp))))) # <class 'str'>
 
 # stringvalue = input("take a new input:")
 # print(type(stringvalue))

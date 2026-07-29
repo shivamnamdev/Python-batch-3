@@ -52,3 +52,16 @@ elif operator == "/":
 else:
     print("invalid operator ")
            
+
+# Take a value from user.
+# If value is NOT empty, print "Input received"
+# Else print "No input given"
+
+
+var = input()
+if var:
+    print("Input Recieved")
+else:
+    print("not given input")    
+    
+    

@@ -97,8 +97,11 @@
 # in
 print('poori' in "poornima") # False
 print('poor' in "poornima") # True
+print('a' in "Tushar") # False
 
 print('P' in "poornima") # False
 print('P' not in "poornima") # True
 
 # print(3 in 333) TypeError: argument of type 'int' is not iterable
+
+
