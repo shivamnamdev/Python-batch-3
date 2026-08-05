@@ -1,41 +1,41 @@
-# # print("print this statement")
-# # print("print this statement")
-# # print("print this statement")
-# # print("print this statement")
-# # print("print this statement")
-# # print("print this statement")
-# # print("print this statement")
-# # print("print this statement")
+# print("print this statement")
+# print("print this statement")
+# print("print this statement")
+# print("print this statement")
+# print("print this statement")
+# print("print this statement")
+# print("print this statement")
+# print("print this statement")
 
 
-# # # while <condition>:
-# # #     this statement would work
+# while <condition>:
+#     this statement would work
     
-# # a = "running"
-# # while a:
-# #     a = input()
-# #     print("print this statement")    
+a = "running"
+while a:
+    a = input()
+    print("print this statement")    
     
     
-# # value = 4
-# # while value:
-# #     value = int(input())
-# #     print(f"you've given integer value {value}")
+value = 4
+while value:
+    value = int(input())
+    print(f"you've given integer value {value}")
        
        
-# # # print "print this statement" 5 times      
+# print "print this statement" 5 times      
 
-# # i = 0 # initialise
-# # while i < 5: # check whether the condition met - my counter should be less than the target(5)
-# #     print("print this statement")
-# #     i = i + 1 # increment the counter
+i = 0 # initialise
+while i < 5: # check whether the condition met - my counter should be less than the target(5)
+    print("print this statement")
+    i = i + 1 # increment the counter
     
     
-# # i = 1
-# # while i <= 10:
-# #     if i != 2:
-# #         print(i)
-# #     i = i + 1    
+i = 1
+while i <= 10:
+    if i != 2:
+        print(i)
+    i = i + 1    
     
 # # ATM Program
 b = 1234
