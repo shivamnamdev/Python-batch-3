@@ -1,11 +1,11 @@
 # calling a function ---> comment
-# Basic data types
+# Primitive data types
 print("This is my first program")# Text -> string
 print(23) # number -> integer
 print(14.2) # decimal -> float
 print(False) # Boolean
 
-print(type("This is my first program")) # Text -> string - iterable
+print(type("This is my first program")) # Text -> string - iterable - immutable
 print(type(23)) # number -> integer - non-iterable
 print(type(14.2)) # decimal -> float - non-iterable
 print(type(False)) # Boolean - non-iterable

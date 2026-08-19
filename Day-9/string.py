@@ -94,3 +94,13 @@ print(Final_var)
 var = "This is my string"
 for i in var:
     print(i)
+    
+    
+
+     
+    
+if 0.1 + 0.2 == 0.3:
+    print("Working")
+else:
+    print("Not Working")  
+    
