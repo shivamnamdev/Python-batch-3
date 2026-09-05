@@ -141,3 +141,34 @@ for i in range(1,outer_max):
 # outer loop -> 1 to number of lines + 1
 # inner loop(pattern) -> 1 to current_outer_loop + 1 -> i + 1
 # inner loop(spacing) -> 1 to outer_loop_max_value - i -> max - i
+
+
+
+
+
+
+
+
+
+
+
+def greet():
+    print("working")
+
+def greet1(callback):
+    print("another")
+    callback()
+
+
+greet1(greet)
+
+
+def outer():
+    def inner():
+        print("Inside")
+
+    return inner
+
+
+a = outer()
+a()

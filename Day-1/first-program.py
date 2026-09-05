@@ -13,8 +13,8 @@ print(type(False)) # Boolean - non-iterable
 type("This is my first program")
 
 # list
-# Collection Data type
-l = ["value1", 12,123.5,False,[1,2,3]] # list
+# Collection/Iterable Data type
+l = ["value1", 12,123.5,False,[1,2,3]] # list - iterable - mutable
 # ["value1", 12,123.5,False,[1,2,3]] = l 
 t = ("value1", 12,123.5,False,[1,2,3]) # tuple
 s = {3,7,2,1,"anothervalue"} # set
