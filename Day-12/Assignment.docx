@@ -1,0 +1,183 @@
+==========================================
+Python Assignment: For Loop Practice
+==========================================
+---
+
+1. Student Marks Analyzer
+
+Create a program that stores marks of multiple students and finds:
+
+Total marks
+Average marks
+Highest marks
+Lowest marks
+Percentage of students
+Based on the percentage, determine student is passed or not
+
+---
+
+2. Shopping Cart Manager
+
+Create a shopping cart program.
+
+The user should be able to:
+
+Add a product
+Remove a product
+Check whether a product exists
+Display all products
+Display total number of products
+
+---
+
+3. Duplicate Value Finder
+
+Concepts: loop, in, append(), count()
+
+Given a list, find all duplicate values.
+
+Example:
+
+numbers = [10, 20, 30, 20, 40, 10, 50]
+
+Expected idea:
+
+Duplicate values:
+10
+20
+
+Try ensuring that the same duplicate is not printed multiple times.
+
+---
+
+4. Student Attendance Analyzer
+
+Concepts: list, loop, count(), conditions
+
+Store attendance values where:
+
+attendance = ["P", "A", "P", "P", "A", "P"]
+
+Find:
+
+Total Present
+Total Absent
+Attendance percentage
+
+---
+
+5. List Search Program
+
+Concepts: in, index(), loop, lower()
+
+Create a list of products and ask the user to search for a product.
+
+Example:
+
+products = ["Laptop", "Mouse", "Keyboard", "Monitor"]
+
+The program should:
+
+Check whether the product exists
+Display its position/index
+Handle case differences such as "laptop" and "Laptop"
+
+---
+
+6. Number List Separator
+
+Concepts: loop, append(), conditions, %
+
+Given a list of numbers:
+
+numbers = [10, 15, 22, 31, 40, 55, 60]
+
+Separate the values into:
+
+Even numbers
+Odd numbers
+
+Store them in separate lists.
+
+---
+
+7. Remove Duplicate Values
+
+Concepts: loop, in, append()
+
+Given:
+
+numbers = [1, 2, 2, 3, 4, 4, 5, 1]
+
+Create a new list containing only unique values.
+
+Expected result:
+
+[1, 2, 3, 4, 5]
+
+---
+
+8. Password History Checker
+
+Concepts: list, in, append(), loop
+
+Maintain a list of previously used passwords.
+
+Example:
+
+password_history = ["Password@123", "Hello@123", "Python@123"]
+
+Ask the user for a new password.
+
+The program should:
+
+Reject the password if it was used before
+Accept it if it is new
+Add the new password to the history
+
+---
+
+9. Marks Grade Generator
+
+Concepts: loop, conditions, append()
+
+Given:
+
+marks = [95, 82, 71, 65, 48, 30]
+
+Create another list containing grades.
+
+Example:
+
+90 and above → A
+75 and above → B
+50 and above → C
+Below 50 → Fail
+
+Expected idea:
+
+["A", "B", "C", "C", "Fail", "Fail"]
+
+---
+
+10. List Data Analyzer
+
+Concepts: type(), loop, append(), conditions
+
+Given a mixed list:
+
+data = [10, "Python", 20.5, True, "Hello", False, 100]
+
+Create separate lists for:
+
+Integers
+Strings
+Floats
+Booleans
+
+Example output:
+
+Integers: [10, 100]
+Strings: ["Python", "Hello"]
+Floats: [20.5]
+Booleans: [True, False]
