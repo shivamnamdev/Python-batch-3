@@ -84,8 +84,8 @@ else:
 # 🔟 Count Total Students
 
 class_for_python = (
-    "Pallav","mahak","Yogesh","Amit","Sonal",
-    "Abhay","Gungun","Akanksha","nishcal","Pradyumn"
+    "Vipul","Poornima","Tushar","Amit","Harshit",
+    "Mahak","Yogesh","Heena","Leena","Shivam"
 )
 
 print("Total students:", len(class_for_python))
