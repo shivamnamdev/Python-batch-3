@@ -3,6 +3,7 @@
 l = [1,2,3,4]
 t = (1,2,3,4)
 t2 = tuple()
+t3 = ()
 
 print(type(l), type(t))
 

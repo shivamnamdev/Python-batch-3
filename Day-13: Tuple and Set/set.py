@@ -56,7 +56,3 @@ List = "Shopping bag (values are changable)"
 Tuple = "Locked Box(Fixed values)"
 Set = "Unique Collection (no duplicacy)"
 
-
-matrix = [[0]] * 3
-matrix[0][0] = 99
-print(matrix)
