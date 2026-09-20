@@ -1,0 +1,4 @@
+This is my new file
+This won't contain Python
+but this is for testing purpose only for file handling in python.
+now this file contains 4 lines of text so far, we will add it later.

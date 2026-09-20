@@ -1,0 +1,22 @@
+This file
+not using old way of file opening and close.
+a new line added manually
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
+This is a new line using append
