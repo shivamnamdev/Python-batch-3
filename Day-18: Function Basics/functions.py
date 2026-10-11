@@ -56,7 +56,8 @@ def welcome(name):
 welcome("Vipul")
 welcome("Poornima")    
 
-
+# Function's arguement data type should match with function definition's parameter's
+# data type
 def add(a,b):
     print(a+b)
     
@@ -128,7 +129,7 @@ def show(z): # -> Parameter/Local Variable
     print("within function y:",y)
     return x
     
-# print(x)
+# print(x) NameError: name 'x' is not defined
 p = 30
 print("global:",y)    
 l = show(p)
@@ -139,9 +140,9 @@ print("global:",p)
 
 
 def email(name):
-    print("Hello", name, " Thanks for subscribing")
+    print("Hello", name, ", Thanks for subscribing")
     
 subscribers = ["Poornima","Vipul", "Harshit", "Tushar"]
 
 for i in subscribers:
-    email(i)    
+    email(i)     

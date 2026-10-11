@@ -1,0 +1,10 @@
+
+========== STUDENT PROFILE ==========
+Name       : Shivam Namdev
+Email      : shivamnamdev@gmail.com
+Batch      : Python Foundation - Batch 2
+Location   : Pune
+
+Attendance: Regular
+Status             : In Progress
+======================================

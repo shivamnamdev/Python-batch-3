@@ -1,0 +1,17 @@
+{
+  "name": "Shivam Namdev",
+  "email": "shivamnamdev@gmail.com",
+  "batch": "Python Foundation - Batch 2",
+  "location": "Pune",
+  "courses": [
+      "Python"
+  ],
+  "skills": [
+      "Variables",
+      "Strings",
+      "Lists",
+      "Tuples"
+    ],
+  "attendance": "Regular",
+  "status": "In Progress"
+}

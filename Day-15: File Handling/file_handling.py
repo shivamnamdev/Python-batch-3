@@ -61,10 +61,10 @@ file.close() # Close the file
 
 
 # Example 5: Execute a file
-# file = open("Writing_file_execute.txt","x") #  Open a file
-# file.write("This is my new file using execute mode")
+file = open("Writing_file_execute.txt","x") #  Open a file
+file.write("This is my new file using execute mode")
 
-# file.close() # Close the file
+file.close() # Close the file
 
 # r+ -> Read and Write
 # w+ -> Write and Read

@@ -75,7 +75,6 @@ print(len(fruits))
 mylist = ["banana", "orange","mango","guava","pineapple"]
 mylist.append("melon")
 print(mylist)
-
 # insert
 mylist.insert(2,"cherry")
 print(mylist)
