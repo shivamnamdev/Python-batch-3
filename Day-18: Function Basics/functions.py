@@ -146,3 +146,7 @@ subscribers = ["Poornima","Vipul", "Harshit", "Tushar"]
 
 for i in subscribers:
     email(i)     
+    
+    
+# def setAddressOfOffice() -> Java Convention for functions 
+# def set_address_of_office() -> Python Convention for functions   
