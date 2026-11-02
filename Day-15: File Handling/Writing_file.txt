@@ -1,0 +1,3 @@
+Updated the content
+This is my updated file
+This is the file which opens with write and read mode. Updated the content

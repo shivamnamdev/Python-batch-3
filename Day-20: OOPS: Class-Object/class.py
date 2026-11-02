@@ -1,9 +1,9 @@
 # OOPS Concept: Object Oriented Programming Language
-    # Class
-    # Objects
-    # Constructor
+    # Class - Like a Blueprint - Encapsulate data(variable) and behaviour(method)
+    # Objects - is an instance of a class, hold real values in the memory
+    # Constructor - job is to initialise the values
     # Inheritance
-    # Polymorphisms
+    # Polymorphisms - Same name but different functionality
     # Encapsulation
     # Abstraction 
     
