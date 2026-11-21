@@ -4,14 +4,14 @@
     # Constructor - job is to initialise the values
     # Inheritance
     # Polymorphisms - Same name but different functionality
-    # Encapsulation
+    # Encapsulation - Allow to ensapsule your data(Variable holds the values) and behaviour(Functionality)
     # Abstraction 
     
     
 class student:
     name = "unknown"
     age = 25
-  
+
     def __init__(self,name,age): # constructor
         self.name = name
         self.age = age
