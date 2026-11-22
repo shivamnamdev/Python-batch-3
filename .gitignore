@@ -5,3 +5,10 @@ Day-15: File Handling/Testing.txt
 Day-15: File Handling/Writing_file.txt
 Day-15: File Handling/Writing_file2.txt
 Day-15: File Handling/Writing_file_execute.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
