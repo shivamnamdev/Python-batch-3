@@ -12,16 +12,6 @@ class student_database:
 # ------------------------------------------
 
 
-class student_database: 
-    name = "Unknown" 
-    course = "Python" 
-    
-    def __init__(self,named="newname",courses="newcourses"): 
-        self.name = named 
-        self.course = courses
-
-# Write your Python code below:
-
 # ------------------------------------------
 
 class Student: 
@@ -57,7 +47,7 @@ class Math2:
 # Write your Python code below:
 
 # ------------------------------------------
-
+# @clear
 # ------------------------------------------
 
 # ------------------------------------------
