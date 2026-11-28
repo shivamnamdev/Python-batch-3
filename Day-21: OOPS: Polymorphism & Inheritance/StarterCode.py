@@ -10,10 +10,10 @@ class student_database:
 # Write your Python code below:
 
 # ------------------------------------------
-
+# @carry
 
 # ------------------------------------------
-
+# @clear
 class Student: 
     def show(self): 
         print("I am a student") 
@@ -25,7 +25,7 @@ class Teacher:
 # Write your Python code below:
 
 # ------------------------------------------
-
+# @clear
 class Math:
    def add(self,a,b):
        print(a+b)
@@ -36,7 +36,7 @@ class Math:
 # Write your Python code below:
 
 # ------------------------------------------
-
+# @clear
 class Math2: 
     def add(self,a,b,c=0): 
         print(a+b+c) 
